@@ -18,7 +18,7 @@ const int msglen = 500;             // Maximum length of the message
 
 // Set your wifi credetials here, for open wifi leave password empty
 const char* ssid = "SECRET NETWORK";
-const char* password = "laka passworde123";
+const char* password = "xxxxxx";
 
 // You can comment this section out for using DHCP
 //IPAddress ip(192, 168, 1, 85); // where xx is the desired IP Address
